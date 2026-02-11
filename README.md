@@ -17,7 +17,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://rustamova_nozima_u.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nozima-rustamova-bb9661341) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/NozimaRustamova)  
 <!--[![Gmail](https://img.shields.io/badge/ochildiyevajasmina@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:ochildiyevajasmina@gmail.com) -->
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjasminn&label=Profile%20views&color=0e75b6&style=flat" alt="itsjasminn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjasminn&label=Profile%20views&color=0e75b6&style=flat" alt="Nozima-Rustamova" /> </p>
 <h1 align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"</h1>
 </p>
 
